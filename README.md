@@ -1,5 +1,5 @@
 <a href="https://github.com/seu-usuario">
-  <img align="center" src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=28&pause=1000&color=00BFFF&center=true&vCenter=true&width=500&lines=Ol%C3%A1%2C+eu+sou+o+Vitor!+%F0%9F%91%8B;Futuro+Desenvolvedor+de+Software;Apaixonado+por+tecnologia." alt="Animação de digitação - Olá, eu sou o Vitor!" />
+  <img align="center" src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=28&pause=1000&color=00BFFF&center=true&vCenter=true&width=500&lines=Ol%C3%A1%2C+eu+sou+o+Vitor!+%F0%9F%91%8B;Futuro+Desenvolvedor+de+Software;Apaixonado+por+tecnologia." alt="Animação de digitação - Hello World! Me chamo Vitor!" />
 </a>
 
 <br>
@@ -16,9 +16,3 @@
 - 🔗 **LinkedIn:** [linkedin.com/in/vitor-cassel](https://linkedin.com/in/vitor-cassel)
 
 <br>
-
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <br><br>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario&layout=compact&langs_count=7&theme=dracula"/>
-</p>
