@@ -1,5 +1,5 @@
 <a href="https://github.com/seu-usuario">
-  <img align="center" src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=28&pause=1000&color=00BFFF&center=true&vCenter=true&width=500&lines=Ol%C3%A1%2C+Hello+World!+Me+ Chamo+ Vitor!+%F0%9F%91%8B;Futuro+Desenvolvedor+de+Software" alt="Animação de digitação - Hello World! Me chamo Vitor!" />
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hello+world!!+Me+chamo+Vitor!;Futuro+Dessenvolvedor+de+Software)](https://git.io/typing-svg)
 </a>
 
 <br>
